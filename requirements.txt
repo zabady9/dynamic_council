@@ -1,0 +1,8 @@
+langchain-google-genai
+langgraph
+pydantic
+langchain-community
+duckduckgo-search
+streamlit
+python-dotenv
+typing-extensions
