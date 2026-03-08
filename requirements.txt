@@ -6,3 +6,4 @@ duckduckgo-search
 streamlit
 python-dotenv
 typing-extensions
+ddgs
